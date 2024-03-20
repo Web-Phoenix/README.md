@@ -1,9 +1,9 @@
 WebPhoenix Sites  
 
-Site Categories
+-- Site Categories
 
-Tour Agency Sites
+-- Tour Agency Sites
 
-(1) Sotos Tours
+* Sotos Tours
 
-Url:http://sotostours.org/
+Url: [sotostours.org](https://sotostours.org)
