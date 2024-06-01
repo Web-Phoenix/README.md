@@ -1,9 +1,11 @@
-WebPhoenix Sites  
+# WebPhoenix Sites
 
--- Site Categories
+## Site Categories
 
--- Tour Agency Sites
+### Tour Agency Sites
 
-* Sotos Tours
+#### Sotos Tours
+- **Url:** [sotostours.org](https://sotostours.org)
 
-Url: [sotostours.org](https://sotostours.org)
+#### MantaRay Tours
+- **Url:** [mantaraytours.gr](https://mantaraytours.gr)
